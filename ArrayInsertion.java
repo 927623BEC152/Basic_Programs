@@ -16,9 +16,10 @@ System.out.println("Enter the position to insert the element:");
 int position=sc.nextInt();
 System.out.println("Enter the Elements to be insert: ");
 int element=sc.nextInt();
-for(int i=num-1;i>position;i--)
+for(int i=position;i<num-1;i--)
 {
-    arr[i]=arr[i-1];
-    
+    arr[i]
+}
+
 }
 }
