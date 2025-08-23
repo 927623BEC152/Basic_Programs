@@ -20,6 +20,7 @@ for(int i=num-1;i>position;i--)
 {
     arr[i]=arr[i-1];
 }
+arr[position]=element;
 
 
 
