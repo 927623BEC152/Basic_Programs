@@ -10,11 +10,11 @@ public class holloSquare{
                 System.out.print("* ");
                }
                else{
-                System.out.print("\n");
+                System.out.print("");
                }
             }
         }
-        sc.close()
+        sc.close();
     }
 
 }
