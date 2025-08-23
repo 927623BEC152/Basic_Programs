@@ -4,10 +4,10 @@ public class ArrayInsertion {
         Scanner sc = new Scanner(System.in);
         int num=sc.nextInt();
         int arr[]=new int[num];
-        for(int i=0;i<num;i++
+        for(int i=0;i<num;i++)
 {
-    arr[num]=sc.nextInt();
-    
+    arr[i]=scnextInt();
+
 }    }
 
     
