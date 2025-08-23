@@ -21,7 +21,11 @@ for(int i=num-1;i>position;i--)
     arr[i]=arr[i-1];
 }
 arr[position]=element;
-
+System.out.println("Array after insertion:");
+for(int i=0;i<=num;i++)
+{
+    System.out.println(arr[i]);
+}
 
 
 }
