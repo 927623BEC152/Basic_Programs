@@ -6,10 +6,10 @@ public class frontSpace{
               int n = sc.nextInt();
               for(int row=1;row<=n;row++){
                 for(int col=1;col<=n-row;col++){
-                    System.out.println(" ");
+                    System.out.print(" ");
                 }
                 for(int col=1;col<=row;col++){
-                    System.out.println("* ");
+                    System.out.print("* ");
 
                 }
                 System.out.println();
