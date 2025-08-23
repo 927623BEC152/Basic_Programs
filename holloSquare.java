@@ -6,11 +6,11 @@ public class holloSquare{
         int n = sc.nextInt();
         for(int i=1;i<n;i++){
             for(int j=1;j<n;j++){
-               if(i==1||i==n||j==1;j==n){
+               if(i==1||i==n||j==1||j==n){
                 System.out.println("* ");
                }
                else{
-                System.out.print(\n);
+                System.out.print("\n");
                }
             }
         }
