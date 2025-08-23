@@ -6,7 +6,8 @@ public class ArrayInsertion {
         int arr[]=new int[num];
         for(int i=0;i<num;i++
 {
-    arr[n
+    arr[num]=sc.nextInt();
+    
 }    }
 
     
