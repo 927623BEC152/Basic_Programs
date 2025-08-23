@@ -5,7 +5,9 @@ public class IncrementPattern {
         System.out.println("Enter the pattern size");  
         int n=sc.nextInt();
         for(int row=1;row<n;row++){
-            for(int col=1;col<=row;col)
+            for(int col=1;col<=row;col++){
+                System.out.println(col);
+            }
         }
     }
 
