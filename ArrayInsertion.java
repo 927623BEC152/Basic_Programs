@@ -11,7 +11,9 @@ public class ArrayInsertion {
     arr[i]=sc.nextInt();
     System.out.println(arr[i]);
 
-}    
-int position=sc.nextInt()
+}
+System.out.println("Enter the position to insert the element:");
+int position=sc.nextInt();
+System.out.println("")
 }
 }
