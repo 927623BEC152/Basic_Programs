@@ -12,6 +12,7 @@ public class frontSpace{
                     System.out.println("* ");
 
                 }
+                System.out.println();
               }
    }
 }
