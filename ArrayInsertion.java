@@ -18,7 +18,7 @@ System.out.println("Enter the Elements to be insert: ");
 int element=sc.nextInt();
 for(int i=position;i<num-1;i--)
 {
-    arr[i]
+    arr[i]=arr[i-1];
 }
 
 }
