@@ -14,7 +14,7 @@ public class  Vowels{
         else{
             System.out.println("Consonant");
         }
-        
+        sc.close();
     }
 }
     

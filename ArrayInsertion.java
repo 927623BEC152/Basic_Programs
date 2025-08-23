@@ -32,5 +32,6 @@ public class ArrayInsertion {
         for(int i = 0; i <= num; i++) {
             System.out.println(arr[i]);
         }
+        sc.close();
     }
 }
