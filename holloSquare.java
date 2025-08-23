@@ -10,7 +10,7 @@ public class holloSquare{
                 System.out.print("* ");
                }
                else{
-                System.out.print(" ");
+                System.out.print("  ");
                }
             }
             System.out.print("\n");
