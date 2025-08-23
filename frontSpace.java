@@ -5,7 +5,10 @@ public class frontSpace{
         System.out.println("Enter the pattern size");
               int n = sc.nextInt();
               for(int row=1;row<=n;row++){
-                for(int col=1;col<=row-1;col++)
+                for(int col=1;col<=row-1;col++){
+                    System.out.println(" ");
+                }
+                for(int col=1;col<)
               }
    }
 }
