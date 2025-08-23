@@ -23,11 +23,9 @@
 
 
 
-//    *
-    *    *public class InnerPyramid {
-    
-        
-    }
-      
-    
-
+/*    
+    *    
+   * *   
+  * * *  
+ * * * * 
+ * /
