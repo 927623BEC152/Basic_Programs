@@ -10,7 +10,7 @@ import java.util.*;
                     System.out.print(" ");
                 }
                 for(int col=1;col<=2*row-1;col++){
-                    System.out.print("1 ");
+                    System.out.print("1");
 
                 }
                 System.out.println();
