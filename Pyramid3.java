@@ -1,5 +1,5 @@
-pmport java.util.*;
- public class Pyramid {
+import java.util.*;
+ public class Pyramid3 {
    
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
