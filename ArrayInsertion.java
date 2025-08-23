@@ -12,5 +12,6 @@ public class ArrayInsertion {
     System.out.println(arr[i]);
 
 }    
+int position=sc.nextInt()
 }
 }
