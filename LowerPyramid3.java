@@ -15,7 +15,7 @@ public class LowerPyramid3 {
                 }
                 System.out.println();
             } 
-        
+        sc.close();
     }
     
 }
