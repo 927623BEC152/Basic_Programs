@@ -16,7 +16,7 @@ import java.util.*;
                 System.out.println();
             } 
             for(int row=n;row>=1;row--)
-            ){
+            {
                 for(int col=1;col<=n-row;col++){
                     System.out.print(" ");
                 }
