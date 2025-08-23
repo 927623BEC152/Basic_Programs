@@ -1,6 +1,8 @@
 import java.util.*;
 public class IncrementPattern {
-    public class main
+    public static void main(String[] args){
+          
+    }
 
     
 }
