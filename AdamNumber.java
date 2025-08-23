@@ -25,7 +25,7 @@ public class AdamNumber{
         else{
             System.out.println("NOT ADAM");
         }
-       
+       sc.close();
     }
 
 }
