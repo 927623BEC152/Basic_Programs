@@ -9,7 +9,7 @@ public class ArrayInsertion {
         for(int i=0;i<num;i++)
 {
     arr[i]=sc.nextInt();
-    System.out.printo
+    System.out.println(arr[i]);
 
 }    
 }
