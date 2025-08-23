@@ -10,6 +10,7 @@ public class IncrementPattern {
             }
             System.out.println();
         }
+        sc.close();
     }
 
     
