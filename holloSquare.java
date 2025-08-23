@@ -1,2 +1,2 @@
 import java.util.Scanner;
-public class holl
+public class holloSquare
