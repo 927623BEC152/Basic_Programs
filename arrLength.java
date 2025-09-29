@@ -13,18 +13,16 @@
          sc.close();
 
         int count =0;
-        for(int i=0; ; i++){
-            try 
-            {
-                int temp=arr[i];
-            count++;
-            }
-            catch(ArrayIndexOutOfBoundsException e){
+        while(true){
+            try {
+                int temp = arr[count];
+                count++;
+            } catch(ArrayIndexOutOfBoundsException e){
                 break;
             }
-            
         }
-      System.out.println("Length of the array is:");
+
+        System.out.println("Length of the array is:");
         System.out.println(count);
     }
 }
