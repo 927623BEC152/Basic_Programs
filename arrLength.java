@@ -2,7 +2,16 @@
  import java.util.*;
  public  class arrLength  {
     public static void main(String[] args){
-        int [] arr={1,2,3,4,5,6,7,8,4,9};
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter the size of the array:");
+        int n=sc.nextInt(); 
+        int [] arr=new int[n];
+        System.out.println("Enter the elements of the array:");
+        for(int i=0; i<n; i++){
+            arr[i]=sc.nextInt();
+        }
+         sc.close();
+
         int count =0;
         for(int i=0; ; i++){
             try 
@@ -15,7 +24,7 @@
             }
             
         }
-       
+      System.out.println("Length of the array is:");
         System.out.println(count);
     }
 }
