@@ -15,7 +15,7 @@
         int count =0;
         while(true){
             try {
-                int temp = arr[count];
+                 int temp = arr[count];
                 count++;
             } catch(ArrayIndexOutOfBoundsException e){
                 break;
